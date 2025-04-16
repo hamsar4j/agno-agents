@@ -1,0 +1,7 @@
+openai
+agno
+groq
+yfinance
+python-dotenv
+duckduckgo-search
+exa_py
